@@ -22,15 +22,22 @@ Criar uma rotina simples e organizada, com horários definidos para dormir, se a
 
 James Sóstenes tem entre 39 e 47 anos e enfrenta dificuldades relacionadas principalmente ao sono, o que o leva a consultas médicas frequentes. Ele utiliza um sistema para organizar sua rotina, com foco em regular o sono e manter uma alimentação adequada.
 
-![Persona](./imagens/persona.png)
+![Persona](https://share.google/y0CtEkxYie5YIUPlv./imagens/persona.png)
 
 ---
 
 ## 🔄 Fluxo do Usuário
 
-Descrição do fluxo.
+O processo começa em “começar”, seguindo para a página principal e depois para a página de login. Nessa etapa, o usuário insere seu e-mail, que passa por uma validação.
 
-![Fluxo](./imagens/fluxo.png)
+Após isso, há uma decisão: “Entrar na conta?”.
+
+Se o acesso for válido, o usuário pode seguir para informações sobre a rotina.
+Caso contrário, existe um caminho alternativo onde o usuário pode criar uma conta (inserindo dados) e depois retornar ao fluxo para tentar entrar novamente.
+
+Por fim, após acessar as informações, o fluxo leva à opção de voltar à página inicial, encerrando o ciclo.
+
+![Fluxo](https://www.figma.com/board/zGq9mVm7tlPJFWs0d3G6eU/Untitled?node-id=0-1&p=f&t=a5ZKMK8ZsNDqhFSk-0./imagens/fluxo.png)
 
 ---
 
@@ -58,16 +65,16 @@ Interface final do sistema.
 
 ## 📂 Documentação
 
-- [Problema](./docs/problema.pdf)
-- [Persona](./docs/persona.pdf)
-- [Fluxo](./docs/fluxo-usuario.pdf)
-- [Wireframes](./docs/wireframes.pdf)
-- [Protótipo](./docs/prototipo.pdf)
+- [Problema](https://docs.google.com/document/d/1WWjPgm9BAjeku2T3b7LKVlgvMFWIybJgPAKd_kCgE2E/edit?tab=t.uuu9hctm0lar.)
+- [Persona](https://docs.google.com/document/d/1WWjPgm9BAjeku2T3b7LKVlgvMFWIybJgPAKd_kCgE2E/edit?tab=t.uuu9hctm0lar.)
+- [Fluxo](https://www.figma.com/board/zGq9mVm7tlPJFWs0d3G6eU/Untitled?node-id=0-1&p=f&t=a5ZKMK8ZsNDqhFSk-0.)
+- [Wireframes](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=0-1&t=Ez66Q7RMrylAnuce-0.)
+- [Protótipo](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=0-1&t=Ez66Q7RMrylAnuce-0.)
 
 ---
 
 ## 🚀 Considerações Finais
 
-- O que você aprendeu  
-- Dificuldades  
-- Melhorias futuras  
+- O que você aprendeu: ser designer não é ruim assim
+- Dificuldades:  associação
+- Melhorias futuras: Melhorar a agilidade  
