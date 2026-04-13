@@ -5,7 +5,7 @@
 
 
 Quem é afetado?
-Principalmente adolescentes, estudantes e pessoas com rotina desorganizada ou muito corrida.
+São Principalmente adolescentes, estudantes e pessoas com rotina desorganizada ou muito corrida.
 Qual a dificuldade?
 Manter hábitos básicos de forma constante, como dormir bem, se alimentar corretamente e praticar exercícios.
 Por que isso é relevante?
