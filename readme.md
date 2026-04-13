@@ -22,7 +22,7 @@ Criar uma rotina simples e organizada, com horários definidos para dormir, se a
 
 James Sóstenes tem entre 39 e 47 anos e enfrenta dificuldades relacionadas principalmente ao sono, o que o leva a consultas médicas frequentes. Ele utiliza um sistema para organizar sua rotina, com foco em regular o sono e manter uma alimentação adequada.
 
-[Persona](https://share.google/y0CtEkxYie5YIUPlv./imagens/persona.png)
+[Persona](https://share.google/y0CtEkxYie5YIUPlv)
 
 ---
 
@@ -37,7 +37,7 @@ Caso contrário, existe um caminho alternativo onde o usuário pode criar uma co
 
 Por fim, após acessar as informações, o fluxo leva à opção de voltar à página inicial, encerrando o ciclo.
 
-[Fluxo](https://www.figma.com/board/zGq9mVm7tlPJFWs0d3G6eU/Untitled?node-id=0-1&p=f&t=a5ZKMK8ZsNDqhFSk-0./imagens/fluxo.png)
+[Fluxo](https://www.figma.com/board/zGq9mVm7tlPJFWs0d3G6eU/Untitled?node-id=0-1&p=f&t=a5ZKMK8ZsNDqhFSk-0)
 
 ---
 
@@ -45,7 +45,7 @@ Por fim, após acessar as informações, o fluxo leva à opção de voltar à p�
 
 Estrutura inicial das telas.
 
-[Wireframe](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=2043-1089&t=BaFA137n9ybgvR5G-0./imagens/wireframe1.png)
+[Wireframe](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=2043-1089&t=BaFA137n9ybgvR5G-0)
 
 ---
 
@@ -53,7 +53,7 @@ Estrutura inicial das telas.
 
 Interface final do sistema.
 
-[Tela](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=2043-1089&t=BaFA137n9ybgvR5G-0./imagens/tela1.png)
+[Tela](https://www.figma.com/design/dK52XcsKAQwuc4tx2P7HUo/Guia-de-estilo--Community-?node-id=2043-1089&t=BaFA137n9ybgvR5G-0)
 
 ---
 
